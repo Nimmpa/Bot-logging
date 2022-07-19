@@ -1,0 +1,9 @@
+Commands
+ -added N.time
+ -removed N.dm
+ -fixed N.say
+Status
+ -removed Streaming downloading the web and Streaming completed downloading the web
+ -removed both secret ones
+ -added Watching <version> being made 
+
