@@ -1,0 +1,4 @@
+Commands
+-added N.say (msg)
+-added N.dm (msg)
+-changed N.ping 
